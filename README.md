@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phil Kieti
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React, Go, KUbernetes
+- 🌱 I’m currently learning Next.js, NextAuth.js, React, Go, Kubernetes
 - 💞️ I’m looking to collaborate on React, Go, Java, Angular, MongoDB
 - 📫 How to reach me pmkent.com
 
